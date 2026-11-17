@@ -1,3 +1,3 @@
-- Working at Immorise GmbH from June 2026 - Present
+- Working at Immorise GmbH as a Full Stack Engineer from June 2026 - November 2026
 - My main Github account [rohanJa](https://github.com/rohanja)
 - [LinkedIn profile](https://www.linkedin.com/in/rohan-jain-dev)
